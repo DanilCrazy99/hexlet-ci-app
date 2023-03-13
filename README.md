@@ -1,4 +1,5 @@
 [![Test before push](https://github.com/DanilCrazy99/hexlet-ci-app/actions/workflows/my-workflow.yml/badge.svg)](https://github.com/DanilCrazy99/hexlet-ci-app/actions/workflows/my-workflow.yml)
+[![Snyk TESTS](https://github.com/DanilCrazy99/hexlet-ci-app/actions/workflows/securtiy.yml/badge.svg)](https://github.com/DanilCrazy99/hexlet-ci-app/actions/workflows/securtiy.yml)
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
